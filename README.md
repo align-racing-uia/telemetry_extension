@@ -1,4 +1,4 @@
-<h1 align="center"> Align Racing 2020 </h1> <br>
+<h1 align="center"> Align Racing 2021 </h1> <br>
 <p align="center">
     <a href="http://www.alignracing.no/">
       <img alt="Align Racing UiA" title="Align Racing UiA" src="https://i.imgur.com/idweYeR.png" width="400">
@@ -18,7 +18,7 @@
 
 ## Introduction
 
-This is the repository for Align Racing's 2019 formula student race car.
+This is the repository for Align Racing's formula student race car's different systems.
 
 
 ## Align Racing UiA
